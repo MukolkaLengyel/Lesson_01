@@ -1,2 +1,2 @@
 # Lesson_01
-First lesson, working with GitHub Desctop and C#
+First lesson, working with GitHub Desktop and C#
